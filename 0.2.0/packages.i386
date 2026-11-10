@@ -1,0 +1,58 @@
+P bff
+D Ein Brainfuck-Interpreter
+S bin
+V 1.0.3.1
+s 40960
+
+P binutils
+D GNU binutils
+S bin
+V 2.18
+s 3061760
+
+P dialog
+D Dialoge aus der Shell anzeigen
+S bin
+V 1.1
+s 368640
+
+P diffutils
+D Tools um diffs anzufertigen und Dateien zu vergleichen
+S bin
+V 2.8.1
+s 174080
+
+P fpc
+D FreePasal-Compiler
+S bin
+V 2.0.4
+s 6604800
+dr libc/lib
+dr binutils/bin
+dr libgcc/lib
+
+P gcc
+D GNU C-Compiler
+S bin
+V 4.2.2
+s 7239680
+dr libc/lib
+dr binutils/bin
+
+P libc
+D LOST-Libc
+S lib
+V 0.2
+s 1986560
+
+P nano
+D Ein Texteditor
+S bin
+V 2.0.6
+s 296960
+
+P libgcc
+D libgcc GCC-Biliothek
+S lib
+V 4.2.2
+s 337920

@@ -1,0 +1,72 @@
+P binutils
+D GNU binutils
+S bin
+V 2.18
+s 3082240
+
+P dropbear
+D Ein ssh-Client
+S bin
+V 0.52
+s 225280
+
+
+P e2fsprogs
+D Werkzeuge fuer ext2
+S bin
+V 1.41.3
+s 1341440
+
+P fpc
+D FreePasal-Compiler
+S bin
+V 2.3.x
+s 9359360
+dr libc/lib
+dr binutils/bin
+dr libgcc/lib
+
+P gcc
+D GNU C-Compiler
+S bin
+V 4.2.2
+s 6922240
+dr libc/lib
+dr binutils/bin
+dr libgcc/lib
+
+P help
+D Die tyndur-Hilfe
+S bin
+V 9999
+s 296960
+
+P libc
+D LOST-Libc
+S lib
+V 0.2.1-1
+s 1310720
+
+P libgcc
+D libgcc GCC-Biliothek
+S lib
+V 4.2.2
+s 337920
+
+P lynx
+D Textbasierter Webbrowser
+S bin
+V 2.8.6
+s 1566720
+
+P nano
+D Ein Texteditor
+S bin
+V 2.0.6
+s 296960
+
+P svn
+D Subversion-Client
+S bin
+V 1.5.6
+s 1126400

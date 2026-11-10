@@ -1,0 +1,53 @@
+P kirc
+D Ein IRC-Client
+S bin
+V 0.1
+s 40960
+
+P fpc
+D Der FreePascal-Compiler
+S bin
+V 2.0.4-1
+s 1443840
+
+P binutils
+D GNU Binutils
+S bin
+V 2.18
+s 3061760
+
+P ed
+D Zeileneditor
+S bin
+V 0.9
+s 102400
+
+P kedit
+D Ein Texteditor
+S bin
+V 0.42-1
+s 92160
+
+P nano
+D Ein Texteditor
+S bin
+V 2.0.6
+s 337920
+
+P less
+D Ein Pager
+S bin
+V 418
+s 409600
+
+P gcc
+D Der C-Compiler
+S bin
+V 4.2.2
+s 7731200
+
+P libc
+D Die Libc
+S bin
+V 0.2
+s 2037760

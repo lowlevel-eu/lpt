@@ -1,0 +1,101 @@
+P binutils
+D GNU binutils
+S bin
+V 2.18
+s 3136512
+
+P ctris
+D Ein Tetris-Klon
+S bin
+V 0.42
+s 245760
+
+P dropbear
+D Ein ssh-Client
+S bin
+V 0.52
+s 235520
+
+P fasm
+D Flat Assembler
+S bin
+V 1.69.09
+s 122880
+
+P fpc
+D FreePasal-Compiler
+S bin
+V 2.3.x
+s 9502720
+dr libc/lib
+dr binutils/bin
+dr libgcc/lib
+
+P gcc
+D GNU C-Compiler
+S bin
+V 4.2.2
+s 7289344
+dr binutils/bin
+dr libc/lib
+dr libgcc/lib
+
+P help
+D Die tyndur-Hilfe
+S bin
+V 9999
+s 339968
+
+P libc
+D tyndur-Standardbibiothek für C
+S lib
+V 0.2
+s 3415040
+
+P libgcc
+D libgcc GCC-Biliothek
+S lib
+V 4.2.2
+s 337920
+
+P lynx
+D Textbasierter Webbrowser
+S bin
+V 2.8.6
+s 1754624
+
+P maumau
+D Das Kartenspiel Mau Mau
+S bin
+V 0.5
+s 73728
+
+P nano
+D Ein Texteditor
+S bin
+V 2.0.6
+s 327680
+
+P nasm
+D Netwide Assembler
+S bin
+V 2.06rc2
+s 832000
+
+P svn
+D Subversion-Client
+S bin
+V 1.5.6
+s 1136640
+
+P wget
+D Downloadprogramm
+S bin
+V 1.11
+s 512000
+
+P yasm
+D Ein Assembler
+S bin
+V 0.7.1
+s 492032

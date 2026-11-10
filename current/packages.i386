@@ -1,0 +1,115 @@
+P bff
+D Ein Brainfuck-Interpreter
+S bin
+V 1.0.3.1
+s 194560
+
+P binutils
+D GNU binutils
+S bin
+V 2.18
+s 14807040
+
+P ctris
+D Ein Tetris-Klon
+S bin
+V 0.42
+s 450560
+
+P diffutils
+D Tools um diffs anzufertigen und Dateien zu vergleichen
+S bin
+V 2.8.1
+s 942080
+
+P e2fsprogs
+D Dateisystemtools für ext2
+S bin
+V 1.41.3
+s 6123520
+
+P fasm
+D Flat Assembler
+S bin
+V 1.69.09
+s 276480
+
+P gcc
+D GNU C-Compiler
+S bin
+V 4.2.2
+s 8663040
+dr libc/lib
+dr binutils/bin
+
+P help
+D Hilfesystem
+S bin
+V 9999
+s 593920
+
+P libc
+D LOST-Libc
+S lib
+V 0.2
+s 3532800
+
+P libgcc
+D libgcc GCC-Biliothek
+S lib
+V 4.2.2
+s 337920
+
+P lynx
+D Textbasierter Webbrowser
+S bin
+V 2.8.6
+s 2150400
+
+P maumau
+D Das Kartenspiel Maumau
+S bin
+V 0.5
+s 235520
+
+P nano
+D Ein Texteditor
+S bin
+V 2.0.6
+s 583680
+
+P nasm
+D Assembler
+S bin
+V 2.06rc2
+s 1914880
+
+P pcc
+D Portable C Compiler
+S bin
+V 101222
+s 512000
+
+P svn
+D Subversion-Client
+S bin
+V 1.5.6
+s 4679680
+
+P wget
+D Ein Downloadprogramm
+S bin
+V 1.11
+s 757760
+
+P xgbcemu
+D GBC-Emulator
+S bin
+V 42
+s 358400
+
+P yasm
+D Ein Assembler
+S bin
+V 0.7.1
+s 1628160
